@@ -1,0 +1,11 @@
+.h-con {
+  height: 200px;
+  width: 100vw;
+  background-color: rgb(178, 202, 202);
+  padding: 20px;
+}
+
+.w-logo {
+  height: 80px;
+  width: 80px;
+}

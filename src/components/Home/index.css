@@ -1,0 +1,72 @@
+.m-con {
+  height: 100vh;
+  width: 100vw;
+  background-color: white;
+}
+
+.c-con {
+  padding: 20px;
+}
+
+.heading {
+  font-size: 18px;
+  color: blue;
+}
+
+.projects-con {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.project-item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  height: 200px;
+  width: 300px;
+  padding: 7px;
+
+  background-color: transparent;
+  margin: 10px;
+}
+
+.project-img {
+  height: 80px;
+  width: 80px;
+}
+
+.project-name {
+  color: black;
+  font-size: 17px;
+}
+
+.failure-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.f-heading {
+  color: black;
+  font-size: 16px;
+}
+
+.failure-img {
+  height: 200px;
+  width: 200px;
+}
+
+.desc {
+  color: black;
+  font-size: 17px;
+}
+
+.button {
+  background-color: blue;
+  color: white;
+  height: 50px;
+  width: 200px;
+  text-align: center;
+}

@@ -1,0 +1,22 @@
+.n-con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  height: 100vh;
+}
+
+.n-img {
+  width: 200px;
+  height: 200px;
+}
+
+.n-head {
+  font-size: 16px;
+  color: black;
+}
+
+.n-desc {
+  font-size: 14px;
+  color: black;
+}

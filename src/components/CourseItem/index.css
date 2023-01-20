@@ -1,0 +1,21 @@
+.project-img {
+  height: 80px;
+  width: 80px;
+}
+
+.project-name {
+  color: black;
+  font-size: 17px;
+}
+
+.project-item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  height: 200px;
+  width: 300px;
+  padding: 7px;
+
+  background-color: transparent;
+  margin: 10px;
+}
